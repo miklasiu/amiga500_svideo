@@ -10,3 +10,6 @@ The same applies to AD724. It needs 714mVpp so I _think_ it needs 1/2nd of the A
 
 Work in progress - not made, not tested yet.
 
+BTW - I just bought my 1st Amiga in 2022. So I am ~30years behind. Catching up. 
+Just noticed all mods cost more than A500. It seems cheaper and surely funnier to do them myself.
+Fortunately it is broken so more projects coming as original parts are expensive too :D
